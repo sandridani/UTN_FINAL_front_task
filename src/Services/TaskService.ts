@@ -1,7 +1,7 @@
 ////import Categoria from '../components/Categoria/Categoria';
 import { Task } from '../types/Task';
 
-const BASE_URL = "http://localhost:3000/tasks";
+const BASE_URL = "https://utn-final-back-task.onrender.com/tasks";
 
 export const TaskService = {
 
